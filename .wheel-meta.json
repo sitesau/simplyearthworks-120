@@ -1,0 +1,22 @@
+{
+  "wheel_id": 873,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-120",
+  "project": "earthmoving-adelaide-questions-to-ask-2715e03cb789d08f75b74368c",
+  "parent_t1_ref": "simplyearthworks-159",
+  "node_role": "feeder",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving adelaide questions to ask",
+  "intended_url": "https://aumedia.neocities.org/earthmoving-adelaide-questions-to-ask-2715e03cb789d08f75b74368c/",
+  "tier": "T2",
+  "writeback_nonce": "0a906751906f5c0e",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/simplyearthworks-159/",
+      "anchor": "the earthmoving adelaide cost guide overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
